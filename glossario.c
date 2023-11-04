@@ -13,15 +13,6 @@ typedef: Per creare alias per tipi di dati personalizzati.
 sizeof: Operatore per ottenere la dimensione di un tipo di dati.
 */
 
-
-
-
-
-
-
-
-
-
 // Dichiarazione della funzione che calcola la somma di un array di interi
 int calcolaSomma(int array[], int dimensione) {
     int somma = 0;
