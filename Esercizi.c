@@ -4,17 +4,30 @@
 #include <stdlib.h>
 
 
+int main ()
 
-int main (){
+{
+
 
 int x = 5;
 int *px;
 
-
 px = &x;
 
-printf("x = %d (opper &d) \n, x, *px")
-printf()
+printf("x = %d (opper &d) \n,x,*px");
+printf("indirizzo di x = %d \
+(oppure &d)",px, &x);
+
+
 
 
 }
+
+
+
+
+
+
+
+
+
